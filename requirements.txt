@@ -1,0 +1,6 @@
+discord.py==2.3.2  # 使用しているdiscord.pyのバージョンを正確に指定するのが理想
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+Flask              # Keep Alive用
+requests           # ファイルダウンロード用
